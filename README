@@ -1,2 +1,10 @@
 This is the Hello World example from the git tutorial
 (Changed in original and pushed to shared)
+
+################################################################
+
+This the first repository that I created. In this I added the hello.rb file in which imade changes, staged them and committed them.
+I also created aliases in my config file and used them here for executing the commands.
+I created new branch "greet: and also tagged various commits to identify them.
+Adding structure to repo is done (lib file).
+Creating new branches, viewing the graph, resolving conflicts and rebasing vs merging id done.
